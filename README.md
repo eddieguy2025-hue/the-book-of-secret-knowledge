@@ -849,7 +849,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://llama.meta.com/"><b>Llama</b></a> - Meta's open source large language model family.<br>
-&nbsp;&nbsp; <a href="https://mistral.ai/"><b>Mistral</b></a> - open source models known for efficiency and strong performance.<br>
+&nbsp;&nbsp; <a href="https://mistral.ai/"><b>Mistral</b></a> - Open source models known for efficiency and strong performance.<br>
 &nbsp;&nbsp; <a href="https://github.com/ggerganov/llama.cpp"><b>llama.cpp</b></a> - efficient C/C++ implementation for running LLMs locally.<br>
 &nbsp;&nbsp; <a href="https://ollama.com/"><b>Ollama</b></a> - run open source LLMs locally with a simple command-line interface.<br>
 &nbsp;&nbsp; <a href="https://lmstudio.ai/"><b>LM Studio</b></a> - desktop app for running local LLMs with a user-friendly interface.<br>
