@@ -96,6 +96,7 @@ Only main chapters:
 - **[Systems/Services](#systemsservices-toc)**
 - **[Networks](#networks-toc)**
 - **[Containers/Orchestration](#containersorchestration-toc)**
+- **[LLM](#llm-toc)**
 - **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
 - **[Inspiring Lists](#inspiring-lists-toc)**
 - **[Blogs/Podcasts/Videos](#blogspodcastsvideos-toc)**
@@ -831,6 +832,61 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://learnk8s.io/production-best-practices/"><b>kubernetes-production-best-practices</b></a> - checklists with best-practices for production-ready Kubernetes.<br>
 &nbsp;&nbsp; <a href="https://github.com/freach/kubernetes-security-best-practice"><b>kubernetes-production-best-practices</b></a> - kubernetes security - best practice guide.<br>
 &nbsp;&nbsp; <a href="https://github.com/hjacobs/kubernetes-failure-stories"><b>kubernetes-failure-stories</b></a> - is a compilation of public failure/horror stories related to Kubernetes.<br>
+</p>
+
+#### LLM &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+
+##### :black_small_square: LLM Providers
+
+<p>
+&nbsp;&nbsp; <a href="https://openai.com/chatgpt"><b>ChatGPT</b></a> - AI chatbot by OpenAI that uses GPT models for conversational AI.<br>
+&nbsp;&nbsp; <a href="https://claude.ai/"><b>Claude</b></a> - AI assistant by Anthropic focused on being helpful, harmless, and honest.<br>
+&nbsp;&nbsp; <a href="https://gemini.google.com/"><b>Gemini</b></a> - Google's multimodal AI model for text, code, and image understanding.<br>
+&nbsp;&nbsp; <a href="https://copilot.microsoft.com/"><b>Microsoft Copilot</b></a> - AI assistant powered by OpenAI models integrated with Microsoft services.<br>
+&nbsp;&nbsp; <a href="https://www.perplexity.ai/"><b>Perplexity AI</b></a> - AI-powered search engine that provides direct answers with citations.<br>
+</p>
+
+##### :black_small_square: Open Source LLMs
+
+<p>
+&nbsp;&nbsp; <a href="https://llama.meta.com/"><b>Llama</b></a> - Meta's open source large language model family.<br>
+&nbsp;&nbsp; <a href="https://mistral.ai/"><b>Mistral</b></a> - Open source models known for efficiency and strong performance.<br>
+&nbsp;&nbsp; <a href="https://github.com/ggerganov/llama.cpp"><b>llama.cpp</b></a> - efficient C/C++ implementation for running LLMs locally.<br>
+&nbsp;&nbsp; <a href="https://ollama.com/"><b>Ollama</b></a> - run open source LLMs locally with a simple command-line interface.<br>
+&nbsp;&nbsp; <a href="https://lmstudio.ai/"><b>LM Studio</b></a> - desktop app for running local LLMs with a user-friendly interface.<br>
+&nbsp;&nbsp; <a href="https://github.com/Mozilla-Ocho/llamafile"><b>llamafile</b></a> - distribute and run LLMs with a single file.<br>
+&nbsp;&nbsp; <a href="https://huggingface.co/"><b>Hugging Face</b></a> - platform for sharing and deploying machine learning models.<br>
+</p>
+
+##### :black_small_square: LLM Frameworks & Tools
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/langchain-ai/langchain"><b>LangChain</b></a> - framework for developing applications powered by language models.<br>
+&nbsp;&nbsp; <a href="https://github.com/run-llama/llama_index"><b>LlamaIndex</b></a> - data framework for connecting LLMs to external data sources.<br>
+&nbsp;&nbsp; <a href="https://github.com/microsoft/semantic-kernel"><b>Semantic Kernel</b></a> - Microsoft's SDK for integrating LLMs into applications.<br>
+&nbsp;&nbsp; <a href="https://github.com/guidance-ai/guidance"><b>Guidance</b></a> - language for controlling large language models.<br>
+&nbsp;&nbsp; <a href="https://github.com/jxnl/instructor"><b>Instructor</b></a> - structured outputs from LLMs using Pydantic.<br>
+&nbsp;&nbsp; <a href="https://github.com/vllm-project/vllm"><b>vLLM</b></a> - high-throughput and memory-efficient inference engine for LLMs.<br>
+&nbsp;&nbsp; <a href="https://github.com/OpenBMB/ChatDev"><b>ChatDev</b></a> - create customized software using natural language.<br>
+</p>
+
+##### :black_small_square: LLM Security
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/leondz/garak"><b>garak</b></a> - LLM vulnerability scanner for testing model security.<br>
+&nbsp;&nbsp; <a href="https://github.com/protectai/rebuff"><b>Rebuff</b></a> - self-hardening prompt injection detector.<br>
+&nbsp;&nbsp; <a href="https://github.com/NVIDIA/NeMo-Guardrails"><b>NeMo Guardrails</b></a> - toolkit for adding programmable guardrails to LLM applications.<br>
+&nbsp;&nbsp; <a href="https://llmsecurity.net/"><b>LLM Security</b></a> - resources and research on LLM security vulnerabilities.<br>
+&nbsp;&nbsp; <a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/"><b>OWASP LLM Top 10</b></a> - security risks for LLM applications.<br>
+</p>
+
+##### :black_small_square: Prompt Engineering
+
+<p>
+&nbsp;&nbsp; <a href="https://www.promptingguide.ai/"><b>Prompt Engineering Guide</b></a> - comprehensive guide to prompt engineering techniques.<br>
+&nbsp;&nbsp; <a href="https://github.com/dair-ai/Prompt-Engineering-Guide"><b>DAIR.AI Prompt Engineering</b></a> - guides, papers, and resources for prompt engineering.<br>
+&nbsp;&nbsp; <a href="https://github.com/f/awesome-chatgpt-prompts"><b>Awesome ChatGPT Prompts</b></a> - collection of prompt examples for ChatGPT.<br>
+&nbsp;&nbsp; <a href="https://learnprompting.org/"><b>Learn Prompting</b></a> - free, open source course on prompt engineering.<br>
 </p>
 
 #### Manuals/Howtos/Tutorials &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
